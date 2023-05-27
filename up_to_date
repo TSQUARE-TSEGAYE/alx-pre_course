@@ -1,0 +1,6 @@
+$ git clone https://github.com/TSQUARE-TSEGAYE/alx-pre_course.git
+$ cd alx-pre_course
+$ echo Updating README file from github > README.md
+$ git add .
+$ git commit -m Updating README file from github
+$ git push
